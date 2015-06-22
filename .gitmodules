@@ -4,3 +4,12 @@
 [submodule "vagrant-node-r"]
 	path = vagrant-node-r
 	url = https://github.com/mtbvang/vagrant-node-r
+[submodule "vagrant-r"]
+	path = vagrant-r
+	url = https://github.com/mtbvang/vagrant-r
+[submodule "vagrant-ubuntu"]
+	path = vagrant-ubuntu
+	url = https://github.com/mtbvang/vagrant-ubuntu
+[submodule "vagrant-node"]
+	path = vagrant-node
+	url = https://github.com/mtbvang/vagrant-node

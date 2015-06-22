@@ -4,6 +4,8 @@ Dockerfiles to build usefull docker images. The docker files are added as submod
 
 ## Git commands to work with submodules
 
+git submodule add <repo path> [folder name]
+
 git submodule update --init --recursive
 
 git submodule foreach --recursive git fetch
