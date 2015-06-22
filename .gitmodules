@@ -1,3 +1,6 @@
 [submodule "vagrant-mongo"]
 	path = vagrant-mongo
 	url = https://github.com/mtbvang/vagrant-mongo.git
+[submodule "vagrant-node-r"]
+	path = vagrant-node-r
+	url = https://github.com/mtbvang/vagrant-node-r
